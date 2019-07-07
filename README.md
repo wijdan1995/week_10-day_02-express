@@ -2,11 +2,6 @@
 
 # Express as an API
 
-## Prerequisites
-
-- [node-api](https://git.generalassemb.ly/ga-wdi-boston/node-api)
-- [mongoose](https://git.generalassemb.ly/ga-wdi-boston/mongoose)
-
 ## Objectives
 
 By the end of this, developers should be able to:
@@ -37,7 +32,7 @@ of Node.
 Express can be used for full-stack applications (those that have server-rendered
 views). However, we will use it purely as an API.
 
-A customized template for Express is available at [express-api-template](https://git.generalassemb.ly/ga-wdi-boston/express-api-template).
+A customized template for Express is available at [express-api-template](https://github.com/wdi-red-coral/express-api-template).
 It includes authentication and common middlewares so that you can start
 developing an API right away.
 
@@ -126,7 +121,7 @@ instead of writing our own.
 
 Now that we've taken a look at some simpler Express apps, let's see a real one!
 This repo includes a copy of our
-[express-api-template](https://git.generalassemb.ly/ga-wdi-boston/express-api-template).
+[express-api-template](https://github.com/wdi-red-coral/express-api-template).
 
 It's a minimal but
 full-featured Express API. It comes with token-based authentication, error
@@ -136,7 +131,7 @@ own routes.
 ## Lab: Investigate Express API template
 
 Take a few minutes to read through the `express-api-template`
-[README](https://git.generalassemb.ly/ga-wdi-boston/express-api-template#structure),
+[README](https://github.com/wdi-red-coral/express-api-template#structure),
 particularly the section labelled "Structure". Then, with your team, begin
 looking around the code in this repo, starting with `server.js`.
 
@@ -451,7 +446,7 @@ Write a node script to scaffold a route handler.
 
 - [Express - Node.js web application framework](http://expressjs.com/)
 - [Understanding Express.js](https://evanhahn.com/understanding-express/)
-- [ga-wdi-boston/express-api-template: Minimal express server](https://git.generalassemb.ly/ga-wdi-boston/express-api-template)
+- [express-api-template: Minimal express server](https://github.com/wdi-red-coral/express-api-template)
 - [How body parser works](https://medium.com/@adamzerner/how-bodyparser-works-247897a93b90)
 
 ## [License](LICENSE)
